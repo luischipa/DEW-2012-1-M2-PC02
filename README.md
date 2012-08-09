@@ -7,9 +7,12 @@ Profesor subo mi trabajo
 
 Tome en concideracion la primera aplicacion.
 
-Lo hice solo sin nigun grupo. Mis datos son:
+Lo hice solo sin nigun grupo. 
 
-Luis Chipa Espinoza
+Mis datos son:
+
+Nombre : Luis Chipa Espinoza
+Usuario Git : luischipa
 
 Atte.
 

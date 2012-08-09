@@ -12,6 +12,7 @@ Lo hice solo sin nigun grupo.
 Mis datos son:
 
 Nombre : Luis Chipa Espinoza
+
 Usuario Git : luischipa
 
 Atte.
